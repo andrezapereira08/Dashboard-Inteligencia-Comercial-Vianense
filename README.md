@@ -9,19 +9,19 @@ O dashboard demonstra como os dados podem ser transformados em indicadores estra
 
 
 
-## 📈 Dashboard – Visão Geral
+## Dashboard – Visão Geral
 
 ![Dashboard Geral](visao_geral.PNG)
 
-## 🛒 Análise de Produtos
+## Análise de Produtos
 
 ![Análise de Produtos](analise_produtos.PNG)
 
-## 🏬 Desempenho das Lojas
+## Desempenho das Lojas
 
 ![Desempenho das Lojas](analise_lojas.PNG)
 
-## 📅 Análise Temporal
+## Análise Temporal
 
 ![Análise Temporal](analise_temporal.PNG)
 
