@@ -7,9 +7,7 @@ Para fins de demonstração e publicação no portfólio, foi construída uma ba
 
 O dashboard demonstra como os dados podem ser transformados em indicadores estratégicos para acompanhamento de resultados, comparação entre lojas e identificação de oportunidades comerciais.
 
-# 📊 Dashboard de Inteligência Comercial
 
-Este dashboard foi desenvolvido em Power BI para análise de desempenho comercial de supermercados, com foco em indicadores estratégicos e apoio à tomada de decisão.
 
 ## 📈 Dashboard – Visão Geral
 
